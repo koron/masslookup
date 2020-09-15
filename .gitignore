@@ -1,0 +1,4 @@
+*.exe
+masslookup
+tags
+tmp/
