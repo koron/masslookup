@@ -42,3 +42,17 @@ output format:
   -hidenoentry
         hide NOENTRY
 ```
+
+## Configure DNS server
+
+To change DNS server (resolver), you have to change OS specified resolver.
+
+For Linux, please edit `/etc/resolv.conf`.
+
+*   [CoreOS](https://coreos.com/rkt/docs/latest/networking/dns.html)
+*   [Ubuntu](https://ubuntu.com/server/docs/network-configuration#heading--dns-client-configuration)
+*   [Configure Google PUblic DNS for Linux](https://developers.google.com/speed/public-dns/docs/using#linux)
+
+For Windows, please configure network adapter's TCP/IP settings.
+
+*   [Configure Google Public DNS for Windows](https://developers.google.com/speed/public-dns/docs/using#windows)
