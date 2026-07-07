@@ -2,7 +2,6 @@
 
 [![GoDoc](https://godoc.org/github.com/koron/masslookup?status.svg)](https://godoc.org/github.com/koron/masslookup)
 [![Actions/Go](https://github.com/koron/masslookup/workflows/Go/badge.svg)](https://github.com/koron/masslookup/actions?query=workflow%3AGo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/koron/masslookup)](https://goreportcard.com/report/github.com/koron/masslookup)
 
 mass DNS lookup
 
