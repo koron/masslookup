@@ -1,5 +1,5 @@
 module github.com/koron/masslookup
 
-go 1.24.0
+go 1.25.0
 
-require golang.org/x/sync v0.17.0
+require golang.org/x/sync v0.21.0
